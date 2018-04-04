@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="30" passed="30">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8038" started-at="2018-03-27T10:21:37Z" finished-at="2018-03-27T10:21:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8038" started-at="2018-03-27T10:21:37Z" finished-at="2018-03-27T10:21:45Z">
+      <class name="jenkinsTargetTests.jenkinsTargetTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="setup" is-config="true" duration-ms="3746" started-at="2018-03-27T10:21:37Z" finished-at="2018-03-27T10:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLoginMainPage()[pri:1, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="testLoginMainPage" duration-ms="1680" started-at="2018-03-27T10:21:41Z" finished-at="2018-03-27T10:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginMainPage -->
+        <test-method status="PASS" signature="testManageJenkinsHeader()[pri:2, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="testManageJenkinsHeader" duration-ms="44" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testManageJenkinsHeader -->
+        <test-method status="PASS" signature="testCreateModifyUsers()[pri:3, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="testCreateModifyUsers" duration-ms="30" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateModifyUsers -->
+        <test-method status="PASS" signature="manageUsersButton()[pri:4, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="manageUsersButton" duration-ms="263" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageUsersButton -->
+        <test-method status="PASS" signature="testCreateUsers()[pri:5, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="testCreateUsers" duration-ms="33" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUsers -->
+        <test-method status="PASS" signature="clickCrUsersButton()[pri:6, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="clickCrUsersButton" duration-ms="258" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCrUsersButton -->
+        <test-method status="PASS" signature="findUserCreationForm()[pri:7, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findUserCreationForm" duration-ms="36" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findUserCreationForm -->
+        <test-method status="PASS" signature="findFormUsernameTextElement()[pri:8, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findFormUsernameTextElement" duration-ms="31" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFormUsernameTextElement -->
+        <test-method status="PASS" signature="findFormFullnameTextElement()[pri:9, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findFormFullnameTextElement" duration-ms="29" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFormFullnameTextElement -->
+        <test-method status="PASS" signature="findFormEmailTextElement()[pri:10, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findFormEmailTextElement" duration-ms="21" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFormEmailTextElement -->
+        <test-method status="PASS" signature="findFormPasswordElement()[pri:11, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findFormPasswordElement" duration-ms="28" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFormPasswordElement -->
+        <test-method status="PASS" signature="findFormPasswordConfirmElement()[pri:12, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findFormPasswordConfirmElement" duration-ms="28" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFormPasswordConfirmElement -->
+        <test-method status="PASS" signature="findEmptyUserNameFieldCheck()[pri:13, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findEmptyUserNameFieldCheck" duration-ms="30" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findEmptyUserNameFieldCheck -->
+        <test-method status="PASS" signature="findEmptyPasswordFieldCheck()[pri:14, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findEmptyPasswordFieldCheck" duration-ms="31" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findEmptyPasswordFieldCheck -->
+        <test-method status="PASS" signature="findEmptyConfirmPasswordFieldCheck()[pri:15, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findEmptyConfirmPasswordFieldCheck" duration-ms="17" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findEmptyConfirmPasswordFieldCheck -->
+        <test-method status="PASS" signature="findEmptyfullNameFieldCheck()[pri:16, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findEmptyfullNameFieldCheck" duration-ms="16" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findEmptyfullNameFieldCheck -->
+        <test-method status="PASS" signature="findEmptyEmailAddressFieldCheck()[pri:17, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="findEmptyEmailAddressFieldCheck" duration-ms="15" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findEmptyEmailAddressFieldCheck -->
+        <test-method status="PASS" signature="filloutEmptyUserNameField()[pri:18, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="filloutEmptyUserNameField" duration-ms="92" started-at="2018-03-27T10:21:43Z" finished-at="2018-03-27T10:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filloutEmptyUserNameField -->
+        <test-method status="PASS" signature="filloutPasswordField()[pri:19, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="filloutPasswordField" duration-ms="86" started-at="2018-03-27T10:21:44Z" finished-at="2018-03-27T10:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filloutPasswordField -->
+        <test-method status="PASS" signature="filloutPasswordConfirmField()[pri:20, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="filloutPasswordConfirmField" duration-ms="82" started-at="2018-03-27T10:21:44Z" finished-at="2018-03-27T10:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filloutPasswordConfirmField -->
+        <test-method status="PASS" signature="filloutFullaNameField()[pri:21, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="filloutFullaNameField" duration-ms="92" started-at="2018-03-27T10:21:44Z" finished-at="2018-03-27T10:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filloutFullaNameField -->
+        <test-method status="PASS" signature="filloutEmailaNameField()[pri:22, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="filloutEmailaNameField" duration-ms="98" started-at="2018-03-27T10:21:44Z" finished-at="2018-03-27T10:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filloutEmailaNameField -->
+        <test-method status="PASS" signature="clickCreateUserButton()[pri:23, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="clickCreateUserButton" duration-ms="387" started-at="2018-03-27T10:21:44Z" finished-at="2018-03-27T10:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCreateUserButton -->
+        <test-method status="PASS" signature="someUserCheck()[pri:24, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="someUserCheck" duration-ms="32" started-at="2018-03-27T10:21:44Z" finished-at="2018-03-27T10:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- someUserCheck -->
+        <test-method status="PASS" signature="clickUserDeleteHref()[pri:25, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="clickUserDeleteHref" duration-ms="267" started-at="2018-03-27T10:21:44Z" finished-at="2018-03-27T10:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickUserDeleteHref -->
+        <test-method status="PASS" signature="clickYesDeleteButton()[pri:26, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="clickYesDeleteButton" duration-ms="247" started-at="2018-03-27T10:21:45Z" finished-at="2018-03-27T10:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickYesDeleteButton -->
+        <test-method status="PASS" signature="deleteUserLinkCheck()[pri:27, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="deleteUserLinkCheck" duration-ms="24" started-at="2018-03-27T10:21:45Z" finished-at="2018-03-27T10:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserLinkCheck -->
+        <test-method status="PASS" signature="pageRefresh()[pri:28, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="pageRefresh" duration-ms="186" started-at="2018-03-27T10:21:45Z" finished-at="2018-03-27T10:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+        <test-method status="PASS" signature="removalUserLinkCheck()[pri:28, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="removalUserLinkCheck" duration-ms="35" started-at="2018-03-27T10:21:45Z" finished-at="2018-03-27T10:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removalUserLinkCheck -->
+        <test-method status="PASS" signature="removalUserLinkCheckAnew()[pri:28, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="removalUserLinkCheckAnew" duration-ms="16" started-at="2018-03-27T10:21:45Z" finished-at="2018-03-27T10:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removalUserLinkCheckAnew -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:jenkinsTargetTests.jenkinsTargetTests@77ec78b9]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-03-27T10:21:45Z" finished-at="2018-03-27T10:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- jenkinsTargetTests.jenkinsTargetTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
